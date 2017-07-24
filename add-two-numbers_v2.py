@@ -1,3 +1,5 @@
+# Runtime: 99 ms
+
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         """

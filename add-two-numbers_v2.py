@@ -1,4 +1,4 @@
-# Runtime: 99 ms
+# Runtime: 96 ms Your runtime beats 100.00 % of python submissions.
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):

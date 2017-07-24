@@ -1,3 +1,5 @@
+# Runtime: 39 ms Your runtime beats 82.25 % of python submissions.
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
